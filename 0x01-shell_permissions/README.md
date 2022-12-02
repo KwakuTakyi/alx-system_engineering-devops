@@ -5,3 +5,4 @@
 4 --> creates an empty file
 5 --> add execute permission to the owner of the file hello
 6 --> grants multiple permissions to the owner and the group owner and  other users
+7 --> add execution permission to everyone
